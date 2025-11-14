@@ -1,0 +1,7 @@
+{
+  "site_name": "Documentation Hub",
+  "site_description": "Modern documentation system",
+  "admin_password_hash": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+  "default_theme": "dark",
+  "items_per_page": 10
+}

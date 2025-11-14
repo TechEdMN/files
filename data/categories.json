@@ -1,0 +1,17 @@
+[
+    {
+        "id": "cat_getting_started",
+        "name": "Getting Started",
+        "description": "Introduction and setup guides"
+    },
+    {
+        "id": "cat_features",
+        "name": "Features",
+        "description": "Detailed feature documentation"
+    },
+    {
+        "id": "cat_guides",
+        "name": "Guides",
+        "description": "Step-by-step tutorials"
+    }
+]
